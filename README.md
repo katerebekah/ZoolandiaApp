@@ -1,6 +1,6 @@
 # Zoolandia App
 
-## Project Summary
+### Project Summary
 Congratulations, your development team has a client and your client needs you to build them an app. Your client is Zoolandia, the local zoo. They gave you a list of requirements in a Trello project. It is the job of your development team to finish the project.
 
 [Trello Board](https://trello.com/b/GDb7POlI/zoolandia-app) : This Trello Board holds the tickets with the business needs for the application. The tickets are in priority order, and some of the final tickets are marked as Challenges and aren't required for your client to accept your app as complete. 
@@ -31,7 +31,7 @@ All code must be approved by all members of your team before it can be merged in
 1. Based on the APIs for the project and the business requirements, implement a UI for Zoolandia
 
 
-#### Project Acceptance Criteria
+### Project Acceptance Criteria
 
 1. All the non-Challenge tickets should be complete from the UI.
 2. A Zoolandia business owner (your instructors/TAs) needs to accept each of the tickets and mark the card in Trello as Accepted.
